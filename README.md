@@ -6,4 +6,4 @@ Contributor - Kushal Trivedi
 
 Common Tasks - I, II, III
 
-Selective Tasks - IX
+Selective Tasks - VI, IX
