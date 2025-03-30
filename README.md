@@ -1,4 +1,4 @@
-# Quantum Machine Learning for High-Energy Physics (QMLHEL) Tasks 2025
+# Quantum Machine Learning for High-Energy Physics (QMLHEP) Tasks 2025
 
 The following GitHub repository contains tasks for my evaluation as a mentee for **Google Summer of Code 2025** under the **ML4SCI QMLHEP** organization:
 
